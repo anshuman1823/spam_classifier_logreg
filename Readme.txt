@@ -1,3 +1,6 @@
+This is a spam email classifier built from scratch using logistic regression algorithm. The model is trained on multiple datasets. The datasets have not been uploaded due to size issues, but the links to datasets can be found in the report.
+
+
 Instructions for running and testing the model:
 
 1. The testing process has only two steps:
