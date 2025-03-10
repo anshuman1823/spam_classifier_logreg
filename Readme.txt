@@ -10,7 +10,7 @@ Instructions for running and testing the model:
 3. Make sure that `nltk` library is installed in the environment in which you are running the code.
 4. While running any source code file, the working directory should be the folder in which all source code files are present. So, change your working directory if that is not the case.
 5. Do not change the name or location of any sub-file or sub-folder.
-6. Due to size restriction of moodle (150 MB), the files present in the `dataset` and `raw_datasets` folders have not been added to the final zip file being uploaded on moodle. The google drive links for these two files are as follows:
+6. Due to size restriction, the files present in the `dataset` and `raw_datasets` folders have not been added to the final zip file being uploaded on moodle. The google drive links for these two files are as follows:
     
     `dataset` : https://drive.google.com/file/d/1xYYXzL8A5bt2Rj4m7GGQZWzQCm974pP5/view?usp=sharing
     
